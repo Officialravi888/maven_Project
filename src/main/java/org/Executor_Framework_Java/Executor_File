@@ -1,0 +1,42 @@
+EXECUTOR FRAMEWORK JAVA
+NOT-Java.util.concurrent.Executors
+class provide a SET of method for creating the thread pools
+
+Executer Framework and create thread pool.
+
+Type of Executers
+1).Single Thread Executor
+2).Fixed Thread Pool(n)
+3).Cached Thread Pool
+4).Scheduled Executor
+
+1).Single Thread Executor
+Single Thread Executor is a special type of executor that has only a single thread. It is used when we need to executed task in sequential order.
+In case when thread dies some error exception at a time
+Of executing a task a new thread is created and all the all the subsequent tasks execute in that new one.
+ExecutorService executor = Executors.newSingleThreadExecutor();
+
+2).Fixed Thread Pool(n)
+FixedThreadPool is another special type of executor that is thread pool having a fixed number of threads.
+ExecutorService executor = Executors.newFixedThreadPool(4);
+3).Cached Thread Pool
+CachedThreadPool is a special type of thread pool that is used to execute short-lived parallel tasks
+ExecutorService executor = Executors.newCachedThreadPool();
+
+4).Scheduled Executor
+It is also used when we need to delay a certain task
+ScheduledExecutorService scheduledExecService = Executors.newScheduledThreadPool(1);
+
+scheduleAtFixedRate and scheduleWithFixedDelay
+1).ScheduledExecutor
+2).scheduleAtFixedRate
+
+scheduledExecService.scheduleAtFixedRate(Runnable command, long initialDelay, long period, Timeunit unit)
+scheduledExecService.scheduleWithFixedRate(Runnable command, long initialDelay, long period, Timeunit unit)
+
+
+
+
+
+
+
