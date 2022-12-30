@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Executor_Framework_Java/Executor_File" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Executor_Framework_Java/RejectedExecutionHandlerDemoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Executor_Framework_Java/SimpleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Executor_Framework_Java/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +53,39 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.SimpleExecutor">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Application" />
       <module name="mevenProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Executor_Framework_Java.SimpleExecutor" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Executor_Framework_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Executor_Framework_Java.Task1" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Executor_Framework_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleExecutor" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Test" />
       </list>
