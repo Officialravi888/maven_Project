@@ -1,4 +1,6 @@
-public class TestDaemonThread1 extends Thread{  
+package org.Programming;
+
+public class TestDaemonThread1 extends Thread{
  public void run(){  
   if(Thread.currentThread().isDaemon()){//checking for daemon thread  
    System.out.println("daemon thread work");  
