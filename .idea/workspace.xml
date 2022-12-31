@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/File" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/Java8Function3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/Java8Function4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Function_Examples/Java 8 Function Examples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Function_Examples/Java8Function2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Function_Examples/JavaMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/Java 8 forEach examples" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapClassic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogicalAndExample/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogicalAndExample/JavaOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/LogicalAndExample/LogicalAndExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapJava08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Executor_All_Program/ConstrcutorCallingThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Executor_All_Program/ConstrcutorCallingThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Programming/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Programming/TestDaemonThread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapJava8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,39 +58,13 @@
       <recent name="org.Executor_All_Program" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.loopMapClassic">
-    <configuration name="Java8Function2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java_8_Function_Examples.Java8Function2" />
-      <module name="mevenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java_8_Function_Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.loopMapJava08">
     <configuration name="Java8Function3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.CollectionProgram.Java8Function3" />
       <module name="mevenProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.CollectionProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java_8_Function_Examples.JavaMoney" />
-      <module name="mevenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java_8_Function_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +98,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="loopMapJava08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java_8_forEach_examples.loopMapJava08" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java_8_forEach_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopMapJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java_8_forEach_examples.loopMapJava8" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java_8_forEach_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loopMapJava08" />
+        <item itemvalue="Application.loopMapJava8" />
         <item itemvalue="Application.loopMapClassic" />
         <item itemvalue="Application.com.mkyong.Java8Function3" />
         <item itemvalue="Application.Java8Function3" />
-        <item itemvalue="Application.Java8Function2" />
-        <item itemvalue="Application.JavaMoney" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672479421479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1672487597971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672487597971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
