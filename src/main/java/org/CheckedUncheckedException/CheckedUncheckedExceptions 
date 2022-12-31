@@ -1,0 +1,10 @@
+Exception is an unwanted or unexpected event, which occurs during the execution of a program, i.e.
+ at run time, that disrupts the normal flow of the program’s instructions. In Java,
+ there are two types of exceptions:
+
+Checked exceptions
+Unchecked exceptions
+
+The program doesn’t compile, because the function main() uses FileReader() and FileReader() throws
+a checked exception FileNotFoundException. It also uses readLine() and close() methods,
+and these methods also throw checked exception IOException

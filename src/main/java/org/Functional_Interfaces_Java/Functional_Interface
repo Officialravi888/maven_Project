@@ -1,0 +1,16 @@
+Runnable –> This interface only contains the run() method.
+Comparable –> This interface only contains the compareTo() method.
+ActionListener –> This interface only contains the actionPerformed() method.
+Callable –> This interface only contains the call() method.
+
+Consumer
+Predicate
+Function
+Supplier
+Amidst the previous four interfaces, the first three interfaces,i.e., Consumer, Predicate, and Function, likewise have additions that are provided beneath –
+
+Consumer -> Bi-Consumer
+Predicate -> Bi-Predicate
+Function -> Bi-Function, Unary Operator, Binary Operator
+
+https://docs.oracle.com/javase/8/docs/api/java/util/function/Consumer.html
