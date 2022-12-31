@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CollectionProgram/Roc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,20 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Test01">
+  <component name="RunManager" selected="Application.Roc">
+    <configuration name="Roc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.CollectionProgram.Roc" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.CollectionProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.CollectionProgram.Test01" />
       <module name="mevenProject" />
@@ -66,19 +79,6 @@
     </configuration>
     <configuration name="Threadpro03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Executor_Framework_Java.Threadpro03" />
-      <module name="mevenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Executor_Framework_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Threadprogram01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Executor_Framework_Java.Threadprogram01" />
       <module name="mevenProject" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Roc" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.TimeUnitSleep" />
         <item itemvalue="Application.TimeUnitSleep01" />
         <item itemvalue="Application.Threadpro03" />
-        <item itemvalue="Application.Threadprogram01" />
       </list>
     </recent_temporary>
   </component>
