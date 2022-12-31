@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CheckedUncheckedException/Check01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CheckedUncheckedException/CheckedUncheckedExceptions " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/CheckedUncheckedException/chack02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Comparator_Interface/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Functional_Interfaces_Java/Functional_Interface" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Functional_Interfaces_Java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Functional_Interfaces_Java/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Functional_Interfaces_Java/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Functional_Interfaces_Java/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JuggedArray/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
