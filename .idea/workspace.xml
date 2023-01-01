@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a696c38c-ca19-4c11-9451-0f60f9273c1b" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java8Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java8Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java8Consumer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_BiConsumer_Examples/JavaBiConsumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_BiConsumer_Examples/JavaBiConsumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_BiConsumer_Examples/JavaBiConsumer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_BiConsumer_Examples/JavaBiConsumer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_BiConsumer_Examples/JavaMapBiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopListClassic01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopListJava02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopListJava03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_forEach_examples/loopMapJava09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/forEach_and_Consumer/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/forEach_and_Consumer/ForEachConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/forEach_and_Consumer/ForEachWriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/forEach_and_Consumer/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Hosting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/HostingRespository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java_8_Consumer_Examples/Java_8_Predicate_Examples/Java8Predicate7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,52 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "settings.editor.splitter.proportion": "0.28654972"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28654972&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.Executor_All_Program" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java8Predicate3">
-    <configuration name="Java8Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate" />
-      <module name="mevenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java8Predicate01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate01" />
-      <module name="mevenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Java8Predicate6">
     <configuration name="Java8Predicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate2" />
       <module name="mevenProject" />
@@ -132,12 +92,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMapBiConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_BiConsumer_Examples.JavaMapBiConsumer" />
+    <configuration name="Java8Predicate4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate4" />
       <module name="mevenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_BiConsumer_Examples.*" />
+          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Predicate5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate5" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Predicate6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.Java8Predicate6" />
+      <module name="mevenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java_8_Consumer_Examples.Java_8_Predicate_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java8Predicate6" />
+        <item itemvalue="Application.Java8Predicate5" />
+        <item itemvalue="Application.Java8Predicate4" />
         <item itemvalue="Application.Java8Predicate3" />
         <item itemvalue="Application.Java8Predicate2" />
-        <item itemvalue="Application.Java8Predicate01" />
-        <item itemvalue="Application.Java8Predicate" />
-        <item itemvalue="Application.JavaMapBiConsumer" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672488491724</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1672570473995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672570473995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <option name="updateInterval" value="5" />
     <servers />
   </component>
